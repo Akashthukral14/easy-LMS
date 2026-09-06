@@ -1,0 +1,6 @@
+{
+  "name": "LMS & Process Compliance Platform",
+  "description": "Multi-client role-based Learning Management System with plain accessible theme, minimalist navigation, process updates, assessments, and audit compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
